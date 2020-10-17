@@ -1,4 +1,4 @@
-count_and_num = (1, 1) # count, number
+count_and_num = (1, 1)  # count, number
 for i in range(1000000, 1, -1):
     print(i)
     count = 0
